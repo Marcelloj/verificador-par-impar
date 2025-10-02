@@ -2,9 +2,6 @@
 
 Uma aplicação web simples e interativa construída para praticar os fundamentos do desenvolvimento front-end com HTML, CSS e JavaScript. O projeto evoluiu de um simples script de console para uma interface web completa e responsiva.
 
-![Prévia do Projeto](caminho/para/sua/imagem.png)
-*(Dica: Coloque aqui o print que você me mandou!)*
-
 ---
 
 ## ✨ Funcionalidades
